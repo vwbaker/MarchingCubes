@@ -1,3 +1,6 @@
+# Anything in the build directory
+build/*
+
 # Object files
 *.o
 *.ko
